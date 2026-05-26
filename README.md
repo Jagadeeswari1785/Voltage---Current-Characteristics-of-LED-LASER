@@ -1,4 +1,3 @@
-<img width="559" height="891" alt="image" src="https://github.com/user-attachments/assets/8e6f25b3-dad0-4847-919f-3a5ced996079" /># Voltage---Current-Characteristics-of-LED/LASER
 # Fiber Optic LED and LASER Characteristics
 
 ## AIM
