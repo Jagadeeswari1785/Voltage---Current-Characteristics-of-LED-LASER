@@ -1,4 +1,4 @@
-# Voltage---Current-Characteristics-of-LED/LASER
+<img width="559" height="891" alt="image" src="https://github.com/user-attachments/assets/8e6f25b3-dad0-4847-919f-3a5ced996079" /># Voltage---Current-Characteristics-of-LED/LASER
 # Fiber Optic LED and LASER Characteristics
 
 ## AIM
@@ -58,6 +58,11 @@ Key points:
 ---
 
 ## TABULATION LED Characteristics (850 nm)
+
+
+<img width="1042" height="1600" alt="image" src="https://github.com/user-attachments/assets/07ac9c64-8325-45d3-814c-911dda1c6a7c" />
+<img width="1020" height="1600" alt="image" src="https://github.com/user-attachments/assets/23570053-fc75-419d-9f83-112bcb5bec38" />
+
 
 | Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
 |-----------------------------|------------------------------|
